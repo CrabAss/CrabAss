@@ -43,6 +43,9 @@
   <img alt="Pandas" src="https://img.shields.io/badge/Pandas-%23150458.svg?logo=pandas&logoColor=white"/>
   <img alt="NumPy" src="https://img.shields.io/badge/NumPy-%23013243.svg?logo=numpy&logoColor=white"/>
   <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%23F37626.svg?logo=Jupyter&logoColor=white"/>
+<details>
+  <summary>More...</summary>
+
 - **IDEs/Editors/VCS:**  
   <img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"/>
   <img alt="JetBrains IDE" src="https://img.shields.io/badge/JetBrains_IDE-%23000000.svg?logo=jetbrains&logoColor=white"/>
@@ -58,5 +61,7 @@
   <img alt="Pug" src="https://img.shields.io/badge/Pug-%23A86454.svg?logo=pug&logoColor=white"/>
   <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-%23008080.svg?logo=latex&logoColor=white"/>
   <img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white"/>
+</details>
+
   
 ###### * This is my preferred English name, not my legal name. This English surname was given by my parents :-)

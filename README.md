@@ -48,11 +48,6 @@
   <img alt="JetBrains IDE" src="https://img.shields.io/badge/JetBrains_IDE-%23000000.svg?logo=jetbrains&logoColor=white"/>
   <img alt="VSCode" src="https://img.shields.io/badge/VSCode-%23007ACC.svg?logo=visual-studio-code&logoColor=white"/>
   <img alt="Visual Studio" src="https://img.shields.io/badge/Visual_Studio-%235C2D91.svg?logo=visual-studio&logoColor=white"/>
-- **Hosting:**  
-  <img alt="DigitalOcean" src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?logo=digitalOcean&logoColor=white"/>
-  <img alt="Linode" src="https://img.shields.io/badge/Linode-%2300A95C.svg?logo=linode&logoColor=white"/>
-  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23039BE5.svg?logo=firebase"/>
-  <img alt="Vultr" src="https://img.shields.io/badge/Vultr-%23007BFC.svg?logo=vultr&logoColor=white"/>
 - **Server Softwares:**  
   <img alt="Apache" src="https://img.shields.io/badge/Apache-%23D42029.svg?logo=apache&logoColor=white"/>
   <img alt="Nginx" src="https://img.shields.io/badge/Nginx-%23009639.svg?logo=nginx&logoColor=white"/>

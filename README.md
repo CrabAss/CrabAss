@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Henry Johnson<sup>*</sup>.
+## Hi there 👋 I'm Henry Johnson<sup>*</sup>.
 <img alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=GitHubCrabAssProfile"/>
 
 ##### NOW
@@ -44,24 +44,10 @@
   <img alt="Pandas" src="https://img.shields.io/badge/Pandas-%23150458.svg?logo=pandas&logoColor=white"/>
   <img alt="NumPy" src="https://img.shields.io/badge/NumPy-%23013243.svg?logo=numpy&logoColor=white"/>
   <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%23F37626.svg?logo=Jupyter&logoColor=white"/>
-<details>
-  <summary>More skills...</summary>
 
-- **VCS/IDEs/Editors:**  
-  <img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"/>
-  <img alt="JetBrains IDE" src="https://img.shields.io/badge/JetBrains_IDE-%23000000.svg?logo=jetbrains&logoColor=white"/>
-  <img alt="VSCode" src="https://img.shields.io/badge/VSCode-%23007ACC.svg?logo=visual-studio-code&logoColor=white"/>
-  <img alt="Visual Studio" src="https://img.shields.io/badge/Visual_Studio-%235C2D91.svg?logo=visual-studio&logoColor=white"/>
-- **Server Softwares:**  
-  <img alt="Apache" src="https://img.shields.io/badge/Apache-%23D42029.svg?logo=apache&logoColor=white"/>
-  <img alt="Nginx" src="https://img.shields.io/badge/Nginx-%23009639.svg?logo=nginx&logoColor=white"/>
-  <img alt="Tomcat" src="https://img.shields.io/badge/Tomcat-%23F8DC75.svg?logo=apache-tomcat&logoColor=black"/>
-- **Markup Languages:**  
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white"/>
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white"/>
-  <img alt="Pug" src="https://img.shields.io/badge/Pug-%23A86454.svg?logo=pug&logoColor=white"/>
-  <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-%23008080.svg?logo=latex&logoColor=white"/>
-  <img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white"/>
-</details>
+##### CONTACT
+
+- 💬 Drop me a note in [Discussions](https://github.com/CrabAss/CrabAss/discussions).
+- 📧 Email address is listed on my profile.
 
 ###### * This is my preferred English name, not my legal name. This English surname was given by my parents :-)

@@ -3,10 +3,10 @@
 
 ##### NOW
 
-- 📖 Pursuing MSc in Artificial Intelligence @ NTU Singapore.
-- 👓 Working remotely on Data Crawling & Engineering @ UCL Centre for Blockchain Technologies.
+- 📖 Pursuing MSc in Artificial Intelligence @ [NTU Singapore](https://www.ntu.edu.sg).
+- 👓 Working remotely on Data Crawling & Engineering @ [UCL Centre for Blockchain Technologies](http://blockchain.cs.ucl.ac.uk).
 - 🌱 Doing my side project using TypeScript, React, Redux, etc.
-- 🔭 Looking forward to working at Shopee as an SRE this summer!
+- 🔭 Looking forward to working at [Shopee](https://shopee.sg) as an SRE this summer!
 - 🎮 Discovering more imaginative VR experience on Oculus Quest 2!
 
 ##### SKILLS
@@ -45,9 +45,9 @@
   <img alt="NumPy" src="https://img.shields.io/badge/NumPy-%23013243.svg?logo=numpy&logoColor=white"/>
   <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%23F37626.svg?logo=Jupyter&logoColor=white"/>
 <details>
-  <summary>More...</summary>
+  <summary>More skills...</summary>
 
-- **IDEs/Editors/VCS:**  
+- **VCS/IDEs/Editors:**  
   <img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"/>
   <img alt="JetBrains IDE" src="https://img.shields.io/badge/JetBrains_IDE-%23000000.svg?logo=jetbrains&logoColor=white"/>
   <img alt="VSCode" src="https://img.shields.io/badge/VSCode-%23007ACC.svg?logo=visual-studio-code&logoColor=white"/>

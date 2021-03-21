@@ -12,7 +12,7 @@
 ##### SKILLS
 
 - **Programming Languages:**  
-  <img alt="Python 3" src="https://img.shields.io/badge/Python_3-%2314354C.svg?logo=python&logoColor=white"/>
+  <img alt="Python 3" src="https://img.shields.io/badge/Python_3-%233776AB.svg?logo=python&logoColor=white"/>
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=typescript&logoColor=white"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E"/>
   <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white"/>
@@ -28,7 +28,7 @@
   <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?logo=Flutter&logoColor=white"/>
   <img alt="Material UI" src="https://img.shields.io/badge/Material_UI-%230081CB.svg?logo=material-ui&logoColor=white"/>
   <img alt="Ant Design" src="https://img.shields.io/badge/Ant_Design-%230170FE?logo=ant-design&logoColor=white"/>
-  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white"/>
+  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%237952B3.svg?logo=bootstrap&logoColor=white"/>
   <img alt="jQuery" src="https://img.shields.io/badge/jQuery-%230769AD.svg?logo=jquery&logoColor=white"/>
   <img alt="Spring" src="https://img.shields.io/badge/Spring-%236DB33F.svg?logo=spring&logoColor=white"/>
 - **Databases:**  

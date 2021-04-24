@@ -4,9 +4,8 @@
 ##### NOW
 
 - 📖 Pursuing MSc in Artificial Intelligence @ [NTU Singapore](https://www.ntu.edu.sg).
-- 👓 Working remotely on Data Crawling & Engineering @ [UCL Centre for Blockchain Technologies](http://blockchain.cs.ucl.ac.uk).
-- 🌱 Doing my side project using TypeScript, React, Redux, etc.
 - 🔭 Looking forward to working at [Shopee](https://shopee.sg) as an SRE this summer!
+- 🌱 Doing my side project using TypeScript, React, Redux, etc.
 - 🎮 Discovering more imaginative VR experience on Oculus Quest 2!
 
 ##### SKILLS

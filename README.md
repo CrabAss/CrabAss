@@ -3,7 +3,7 @@
 
 ##### NOW
 
-- 👨‍💻 Working at [Shopee](https://shopee.sg) as a site reliability engineer.
+- 👨‍💻 Working at [Shopee](https://careers.shopee.sg/about/) as a site reliability engineer.
 - 📖 Pursuing MSc in Artificial Intelligence @ [NTU Singapore](https://www.ntu.edu.sg).
 - 🌱 Doing my side project using TypeScript, React, Redux, etc.
 - 🎮 Discovering more imaginative VR experience on Oculus Quest 2!

@@ -1,20 +1,29 @@
 ## Hi there 👋 I'm Henry Johnson<sup>*</sup>.
-![visitors](https://visitor-badge.glitch.me/badge?page_id=GitHubCrabAssProfile)
 
 ##### NOW
 
-- 👨‍💻 Working at [Shopee](https://careers.shopee.sg/about/) as a [Middleware](https://www.redhat.com/en/topics/middleware/what-is-middleware) [SRE](https://sre.google/).
+- 👨‍💻 Working at [Shopee](https://careers.shopee.sg/about/) as a Platform [SRE](https://sre.google/).
 - 🎮 Discovering more imaginative VR experience on Meta Quest 2!
 
 ##### SKILLS
 
+- **DevOps:**  
+  ![Ansible](https://img.shields.io/badge/Ansible-%23EE0000.svg?logo=ansible&logoColor=white)
+  ![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?logo=grafana&logoColor=white)
+  ![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C.svg?logo=prometheus&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?logo=Docker&logoColor=white)
+  ![Bash Script](https://img.shields.io/badge/Bash_Script-%23121011.svg?logo=gnu-bash&logoColor=white)
+- **Network Traffic Infrastructure:**  
+  ![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?logo=Nginx&logoColor=white)
+  ![DPVS](https://img.shields.io/badge/DPVS-%232ac468.svg?logo=DPVS&logoColor=white)
+  ![CoreDNS](https://img.shields.io/badge/CoreDNS-%235f259f.svg?logo=CoreDNS&logoColor=white)
 - **Programming Languages:**  
   ![Python 3](https://img.shields.io/badge/Python_3-%233776AB.svg?logo=python&logoColor=white)
   ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=typescript&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)
   ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white)
-  ![Bash Script](https://img.shields.io/badge/Bash_Script-%23121011.svg?logo=gnu-bash&logoColor=white)
   ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white)
+  ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?logo=Go&logoColor=white)
   ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white)
   ![C](https://img.shields.io/badge/C-%2300599C.svg?logo=c&logoColor=white)
 - **Frameworks/Libraries:**  
@@ -23,7 +32,7 @@
   ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=white)
   ![Socket.io](https://img.shields.io/badge/Socket.io-%23010101.svg?logo=socket.io&logoColor=white)
   ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?logo=Flutter&logoColor=white)
-  ![Material UI](https://img.shields.io/badge/Material_UI-%230081CB.svg?logo=material-ui&logoColor=white)
+  ![MUI](https://img.shields.io/badge/MUI-%23007FFF.svg?logo=MUI&logoColor=white)
   ![Ant Design](https://img.shields.io/badge/Ant_Design-%230170FE?logo=ant-design&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?logo=bootstrap&logoColor=white)
   ![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?logo=jquery&logoColor=white)

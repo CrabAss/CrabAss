@@ -2,10 +2,10 @@
 
 ##### NOW
 
-- 👨‍💻 Working at [Shopee](https://careers.shopee.sg/about/) as a Platform [SRE](https://sre.google/).
-- 🎮 Discovering more imaginative VR experience on Meta Quest 2!
+- 👨‍💻 Working at [Tabist](https://corp.tabist.co.jp/) as an AI Engineer!
+- 👾 Enjoying weeb life in Japan.
 
-##### SKILLS
+##### SKILLS (to be updated)
 
 - **DevOps:**  
   ![Ansible](https://img.shields.io/badge/Ansible-%23EE0000.svg?logo=ansible&logoColor=white)
